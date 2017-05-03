@@ -1,0 +1,40 @@
+title: gamedevicons
+emojis:
+  - name: aseprite
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/aseprite.png
+  - name: audacity
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/audacity.png
+  - name: blender
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/blender.png
+  - name: flstudio
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/flstudio.png
+  - name: gimp
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/gimp.png
+  - name: gm8
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/gm8.png
+  - name: gms
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/gms.png
+  - name: gms2
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/gms2.png
+  - name: haxe
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/haxe.png
+  - name: inkscape
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/inkscape.png
+  - name: javascript
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/javascript.png
+  - name: mspaint
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/mspaint.png
+  - name: paintnet
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/paintnet.png
+  - name: photoshop
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/photoshop.png
+  - name: pyxel
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/pyxel.png
+  - name: reaper
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/reaper.png
+  - name: stackoverflow
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/stackoverflow.png
+  - name: unity
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/unity.png
+  - name: unreal
+    src: https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/unreal.png
