@@ -16,10 +16,10 @@ Emojis for Slack servers about various Game Development tools.
 | GameMaker: Studio 2 | `gms2` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/gms2.png"> | Development |
 | Haxe | `haxe` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/haxe.png"> | Development |
 | Inkscape | `inkscape` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/inkscape.png"> | Design |
-| JavaScript | `javascript` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/javascript.png"> | Developent |
+| JavaScript | `javascript` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/javascript.png"> | Development |
 | MS Paint | `mspaint` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/mspaint.png"> | Design |
 | Paint.NET | `paintnet` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/paintnet.png"> | Design |
-| Photoshop | `photoshop` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/audacity.png"> | Design |
+| Photoshop | `photoshop` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/photoshop.png"> | Design |
 | Pyxel Edit | `pyxel` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/pyxel.png"> | Design |
 | Reaper | `reaper` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/reaper.png"> | Audio |
 | Stack Overflow | `stackoverflow` | <img width="32" src="https://raw.githubusercontent.com/niksudan/slack-gamedevicons/master/img/stackoverflow.png"> | Development |
