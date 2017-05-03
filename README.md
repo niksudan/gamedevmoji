@@ -1,6 +1,6 @@
 # gamedevmoji
 
-Emojis for Slack servers about Game Development.
+Emojis for Slack servers about various Game Development tools.
 
 ## Directory
 
